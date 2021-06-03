@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parliaments kalender of black saints: or A new discovery of plots &amp; treasons, against our religion, lawes, and lives, by the popish faction: and the conspirators convicted, arraigned, and condemned, according to their severall crimes. VVith a thankfull remembrance of the many victories it hath pleased the Almighty to conferre upon these renowned generalls, (viz. his excellencie the E. of Essex, L. Generall, the Earl of Warwick, Lord Admirall, the Earl of Manchester, the Lord Fairefax, Sir William Waller, Colonell Massey, Liev. Gen. Cromwell, and others) against malignants, athiests and papists. Published according to order.</title>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91451</idno><idno type="EEBO-CITATION">99859857</idno>
+  <idno type="VID">111957</idno>
+  <idno type="EEBO-PROQUEST">2240881644</idno>
+  
+            <idno type="STC">Wing P512</idno>
+            <idno type="STC">Thomason E7_9</idno>
+            <idno type="STC">ESTC R1540</idno>
+            <idno type="PROQUEST">99859857</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99859857e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91451)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111957)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 2:E7[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parliaments kalender of black saints: or A new discovery of plots &amp; treasons, against our religion, lawes, and lives, by the popish faction: and the conspirators convicted, arraigned, and condemned, according to their severall crimes. VVith a thankfull remembrance of the many victories it hath pleased the Almighty to conferre upon these renowned generalls, (viz. his excellencie the E. of Essex, L. Generall, the Earl of Warwick, Lord Admirall, the Earl of Manchester, the Lord Fairefax, Sir William Waller, Colonell Massey, Liev. Gen. Cromwell, and others) against malignants, athiests and papists. Published according to order.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Bishop,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>August 24, 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "9".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Anti-Catholicism --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111957:1"/>
+            <p>The Parliaments KALENDER OF BLACK SAINTS: Or a New Discovery of <hi>PLOTS &amp; TREASONS,</hi> against our <hi>Religion, Lawes,</hi> and <hi>Lives,</hi> by the <hi>Popish Faction:</hi> and the Conspirators Con<g ref="char:EOLhyphen"/>victed, Arraigned, and Condemned, according to their severall Crimes.</p>
+            <p>VVith a <hi>Thankfull Remembrance</hi> of the many Victories it hath pleased the Almighty to conferre upon these Renowned Generalls, (<hi>VIZ. His Excellencie the</hi> E. <hi>of</hi> Essex, <hi>L. Generall, The Earl of</hi> Warwick, <hi>Lord Admirall, The Earl of</hi> Manchester, <hi>the Lord</hi> Fairefax, <hi>Sir</hi> William Waller, <hi>Colonell</hi> Massey, <hi>Liev. Gen.</hi> Cromwell, <hi>and others) against Malignants, Atheists and Papists.</hi>
+            </p>
+            <p>
+               <hi>Published according to Order.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>G. Bishop,</hi> August 24. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111957:2"/>
+            <pb n="3" facs="tcp:111957:2"/>
+            <head>
+               <hi>The Parliaments Kalender,</hi> OF Black SAINTS.</head>
+            <p>
+               <seg rend="decorInit">T</seg>O begin this <hi>Kalender,</hi> I must (though unwillingly) take one Rule from His MAjESTIE, who when he intended to begin this Unnaturall Warr, first went a distance from his Parliament, so I from my Subject, Hee as farre as <hi>York,</hi> and <hi>I</hi> as <hi>Buckingham,</hi> Hee but to <hi>Hull,</hi> and <hi>I</hi> as farre as <hi>Hell:</hi> Hee to raise an Army to destroy His great and Faithfull Councell the <hi>Parlia<g ref="char:EOLhyphen"/>ment;</hi> and I <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Muster up an Army of Plots, and bring them home to your understandings, that would have destroyed both you and yours.</p>
+            <p>
+               <hi>Cryer,</hi> call <hi>Buckingham</hi> to the Bar: Hold up thy hand; <hi>Buckingham,</hi> Thou art Arraigned (by the Name of <hi>George Villiers,</hi> Duke of <hi>Bucking<g ref="char:EOLhyphen"/>ham, &amp;c.</hi>) of High Treason against God, thy King, and Country, For that thou tray<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rously (against the Laws of thy Country) did'st hold Confe<g ref="char:EOLhyphen"/>deracy with Jesuites, and other notorious Papists, first in <hi>Spaine,</hi> afterwards in <hi>France,</hi> for subverting the Protestant Religion, and planting Popery in this Kingdome, and to that end, did'st further all their Popish designes in <hi>England,</hi> by an uncontrouled Power. That (the better to ripen thy Trea<g ref="char:EOLhyphen"/>sons) by the help of Dr. <hi>Lamb,</hi> thy learned Physician, thou didst remove some great Personages out of the way, an the Duke of <hi>Lenox</hi> &amp; <hi>Richmond,</hi> King <hi>JAMES</hi> of blessed Memory, and some others, who were likely to crosse thee in this thy wicked purpose. That thou Trayterously de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gnedst Thousands of Protestants as a prey to the wicked Papists, both at
+<pb n="4" facs="tcp:111957:3"/>
+               <hi>Rochell,</hi> the <hi>Isle</hi> of <hi>Ree,</hi> and <hi>Cades</hi> Voyage, the beetter to work thy self into the good opinions of thy vowed friends the <hi>Roman Catholikes.</hi> What sayest thou <hi>Buckingham,</hi> Guilty, or not guilty. <hi>Buck.</hi> Guilty. Take him <hi>Felto<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi>
+            </p>
+            <p>Cryer, Call <hi>Canterbury</hi> to the Bar: Pray stand off; his Little Grace will show more glorious. Thou art Arraigned of High Treason, by the name of <hi>William Laud▪</hi> late Arch-bishop of <hi>Canterbury,</hi> and Metropolit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n of all <hi>England;</hi> For that thou traiterously, and against the Lawes of God and thy Countrey, did'st seek pollitickly to <hi>Alter Religion, alter the Lawes of the Land, Alter the Judges, and cause the inferior Clergy to Alter their Prea<g ref="char:EOLhyphen"/>ching, Alter their Writings, Alter their Postures, Alter the Communion Ta<g ref="char:EOLhyphen"/>ble, Alter the Service Book, Alter their Habits, Alter their Titles,</hi> and all this to <hi>Alter</hi> the <hi>Prot<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>stant Religion▪</hi> That the better to strengthen and sup<g ref="char:EOLhyphen"/>port thy treacherous designe, thou didst instruct his Maiestie to impose strange Taxations, and Monopolies, <hi>Knighthoods, Ship-money, New Cor<g ref="char:EOLhyphen"/>poration, Soape, Tobacco, Raggs, Maribones, Rat-traps,</hi> and twenty more pretty inventions (for one of thy Place and Coat) to put upon the poore abused people. That thou gavest command to thy Chaplains, in their Licensing of Books, to crosse out all invectives against thy deare Mother the Church of <hi>Rome,</hi> and the Authors to be mark'd out for the <hi>High Com<g ref="char:EOLhyphen"/>mission,</hi> and so suspended. That thou put'st down Lectures, and caus'd the <hi>Declaration</hi> for <hi>Sports</hi> on the <hi>Lords day,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be cast as a stumbling block to in<g ref="char:EOLhyphen"/>trap godly Ministers, who refused to read the same, and to make Shipwrack of good Consciences: <hi>Sunday</hi> must not be called <hi>Sabbath; White, Pock<g ref="char:EOLhyphen"/>lington</hi> and others imployed by thee to write for that purpose. That thy <hi>Will</hi> became a Law, and any that oppos'd the same, became a Sacrifice to thy <hi>Tyranny,</hi> as Mr. <hi>Burton,</hi> Mr. <hi>Prynne,</hi> and Dr. <hi>Bastwick, &amp;c.</hi> That the Book of the <hi>Inquisition,</hi> the <hi>Introduction to a Devout Life,</hi> The <hi>Epistle of Je<g ref="char:EOLhyphen"/>sus Christ to a Devout soul,</hi> full fraught with Popery, by thee Licensed, by thy Authority Printed, and publikely suffer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to be sold, and commended to thy friends both by thy Chaplaines and thy self. That thou hast occasi<g ref="char:EOLhyphen"/>sioned the breaking up of Parliaments, when Traytors and other offenders (of thy own stampe) have been questioned, and the justest Acts in Agita<g ref="char:EOLhyphen"/>tion. That thou did'st cause the <hi>Masse-book<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> lately commended to thee by the Pope, to be sent to <hi>Scotland,</hi> and a sword with it, <hi>That if the Keyes would not prevaile, the Sword should.</hi> That thy <hi>Romish</hi> palate was so quea<g ref="char:EOLhyphen"/>sie, thou could'st relish nothing better then the Blood of the Saints, thy Wolvish stomack so sharp, that Tips of Ears must be cook'd for thee; Pro<g ref="char:EOLhyphen"/>testants fried, others strangled, and some so sowc'd and pickl'd in the High <hi>Commission,</hi> that (like <hi>Issachars</hi> Asse) they have ever since lay groaning under two heavie burdens of thy Pride and Tyrannie. No question but
+<pb n="5" facs="tcp:111957:3"/> thou art guilty of all these Crimes objected against thee, and many more; but I leave thy sentence to those, that ere long will save me the labour, and deliver thee to the hands of deserved Justice.</p>
+            <p>Call <hi>Strafford,</hi> Cryer, <hi>Thomas</hi> Earl of <hi>Strafford,</hi> hold up thy hand, but I had forgot my self, thou art but his Ghost, hee hath been Arraigned alrea<g ref="char:EOLhyphen"/>dy, justly condemned and Executed, and his Crimes yet fresh in our me<g ref="char:EOLhyphen"/>mories, therefore call another, Cryer?</p>
+            <p>
+               <hi>Cottington? Cottington? Cottington:</hi> Thou art an old <hi>Spanish Fox,</hi> that hast had much familiarity with our <hi>Roman Geese,</hi> that have hatch'd m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny egges into Plots against the Parliament, which have proou'd delicate <hi>Gos<g ref="char:EOLhyphen"/>slings</hi> in her Maiesties eye; thou art a prime member of the Cabinet <hi>Counsell,</hi> and a <hi>Iunto Fac totum,</hi> and well deseru'st this sentence, <hi>Take him Gregory.</hi>
+            </p>
+            <p>Call <hi>Digby</hi> Jaylor: <hi>Digby</hi> stand to the Bar: Thou hast been a rare Champion for the <hi>Protestant Religion,</hi> because thou could'st not effect thy businesse of the Fourth of <hi>January,</hi> thou desir'st <hi>His Majestie to provide for his safety, and betake himself to some strong hold,</hi> wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'st Beloved <hi>Jermyn</hi> and thy self provide Arms to ruine your Countrey: They entitle thee the <hi>Close Lanthorn-bearer o' the Court,</hi> and indeed it fit's thy Honor right, that hast so rightly followed thy Predecessors steps; a right <hi>Faux</hi> indeed, only the worse Traytor of the two, and shalt partake of the same Justice that thy Ancestor <hi>Digby</hi> did? <hi>Take him</hi> DERRICK.</p>
+            <p>
+               <hi>Newcastle,</hi> stand to the Bar: Thou art Araign'd upon a black Businesse, by the Name of <hi>Collier,</hi> that hast made many poor people (in the City of <hi>London</hi> chafe themselves hot at thee, and wish thy Honor choak'd with <hi>Cole-dust;</hi> the Devill and thee are sure of one complexion, only thou the blackest? His Maiestie made thee Marquisse; but he made thee Traytor, that (at last) will not let thee want firing: Though thou out-run'st thy Coun<g ref="char:EOLhyphen"/>try, thou canst hardly out-run him. <hi>Burn him soundly Jaylor, then take him Hangman.</hi>
+            </p>
+            <p>What have we here, another <hi>Canterbury?</hi> O 'tis the Archbishop of <hi>York,</hi> a Martiall Priest, another <hi>Black one,</hi> God blesse us, little inferior to his for<g ref="char:EOLhyphen"/>mer brethren in mischief; one of <hi>Buckingham's</hi> Chaplains, who preferr'd him to be Lord <hi>Keeper,</hi> because the Prelate should marry his crack'd Neece, and being urg'd with his promise, demanded of the Duke, if he had provided her a Husband: D'yee think hee'd marry, that lov'd a Whore so well, though a <hi>Babylonish</hi> one? Thou carriest the <hi>Crosse</hi> in this holy War, and cursest the Parliament with <hi>Bell, Book</hi> and <hi>Candle.</hi> But expect no more to be Archbishop of <hi>York, Fighters must not be Bishops.</hi> And though it be a disparagement to thy Function, I cannot help thee: <hi>Take him Der<g ref="char:EOLhyphen"/>rick.</hi>
+            </p>
+            <pb n="6" facs="tcp:111957:4"/>
+            <p>Call <hi>Darby</hi> to the Bar: A <hi>Strange</hi> Name, a <hi>Strange</hi> man, and has as <hi>Strange</hi> a Title, <hi>King in Man,</hi> not of <hi>Man:</hi> But 'tis strange indeed, that the good old Gentleman his father should hatch up a <hi>bird</hi> to pick out his own eyes; his <hi>Auncestrie</hi> began at a Tree, let him take heed it end not there; but the <hi>Grey Mare's</hi> the better horse, which makes her ware the Breeches▪ and her <hi>Strange</hi> Lord a Wooden Dagger, yet made a shift (with a bor<g ref="char:EOLhyphen"/>rowed weapon) to murder an Acquaintance at <hi>Boston,</hi> in cold blood. <hi>Look to him Jaylor.</hi>
+            </p>
+            <p>
+               <hi>G<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ring,</hi> hold up thy hand: Jaylor look in't, sure he has been burnt alrea<g ref="char:EOLhyphen"/>dy: but if he had been hang'd for the first fault, he had ne're commited the second; he was Governor of <hi>Portsmouth,</hi> but betray'd his <hi>trust,</hi> and fled beyond Sea, where let him remain till he be <hi>trsus't</hi> higher. <hi>Take him Greg.</hi>
+            </p>
+            <p>
+               <hi>Hopton,</hi> hold up thy hand; Thou art a Lord <hi>of the last Edition,</hi> newly come forth; yet but a cowardly Lord, to be beat by a Knight, Valiant Sir <hi>William Waller</hi> made thee <hi>Hop</hi> away, and out-run thy Honour, as thou wilt thy Country, unlesse Justice stop thy passage with a halter, for all thy good service done his Maiestie in the <hi>West. Take him Derrick.</hi>
+            </p>
+            <p>Call <hi>Hastings, alias Rob-carrier,</hi> You are all <hi>Hastings</hi> indeed, hastie to do mischief, hastie to rob, fire houses, and do all maner of villanies, that can invent plots, and bring them hastily into action. Thou art a right <hi>Hastings,</hi> theeves must be hasty men for feare of Justice, and thou desirest but one morning to undoe many poor Carriers, steal Broadclothes, Cheese, nay, no commodity comes amisse to thee, unlesse it be the commodity of hempe, that in the end will make as <hi>hastie</hi> a dipatch of thee.</p>
+            <p>Call <hi>Capell</hi> the <hi>Cow-stealer,</hi> one of his Maiesties doughtie Nobilitie: His good old father kill'd Cowes for the poore; but I know no rea<g ref="char:EOLhyphen"/>son that his sonne should love Cow-beefe ever the better for that, be<g ref="char:EOLhyphen"/>ing one that hath beene <hi>Cow'd</hi> often enough by the Parliament For<g ref="char:EOLhyphen"/>ces; the King made him Baron of <hi>Haddum;</hi> indeede the poore Country men, when they misse their Cowes, may quickly guesse who <hi>Had 'um</hi> or having lost their Calves, who <hi>Had 'um?</hi> not <hi>Much-Hadum,</hi> nor <hi>Little-Hadum,</hi> but <hi>Capell</hi> had 'em; He takes them by the Title of his Nobility, being Baron of <hi>Had 'um;</hi> but because I am thy Countrey-man, I give thee good counsell, <hi>Hastings</hi> and thee may hang one another, and so hastily couzen <hi>Gregory▪</hi> and rid the Parliament of a further trouble.</p>
+            <p>Call <hi>Lunsford,</hi> The Ringleader of Roysters, Sir <hi>William Balsore</hi> was a Protestant, and not to be trusted with the Leivtenantship of the Tower, and honest in the businesse concerning my Lord <hi>Lond<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> and could not be corrupted, <hi>Lunsford</hi> as right as <hi>L<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gge,</hi> that should have been▪ Go<g ref="char:EOLhyphen"/>vernour of <hi>Hull,</hi> hell a fitter place for him. Two rare Members to betray
+<pb n="7" facs="tcp:111957:4"/> a Kingdome. A rare plot, if rightly considered. It behooved them when they were in <hi>Scotland</hi> with his Majestie to make a partie there, which made his Maiestie lavish in conferring Honours, then set <hi>Ireland</hi> in an uproare, blind the Citie of <hi>London,</hi> perswade his Majestie to come with a com<g ref="char:EOLhyphen"/>pany of Roysters to take away the 5. Members, raise tumults about <hi>West<g ref="char:EOLhyphen"/>minster,</hi> and then the work's as good as done: But hold a little <hi>Lunsford,</hi> not too hastie. The <hi>Militia</hi> is a great obstacle; but do but perswade his Ma<g ref="char:EOLhyphen"/>jestie hee is in apparent danger, remove him from the Parliament, and let me alone, (quoth <hi>Digby:</hi>) Is not this excellen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Harry?</hi> Then thee and I will over into <hi>Holland,</hi> pawne the Jewels of the Crowne; nay and her Majestie too, before wee'l want Armes to be reveng'd of these precise Round-heads; O! Rare pollicie. Then <hi>I beseech your Majestie provide for your safetie, get you into some strong Hold: Hull</hi> is an excellent place for that purpose. This <hi>Lunsford, Legge, Aston, Hurry,</hi> and <hi>Skellum Green<g ref="char:EOLhyphen"/>vile,</hi> shall be Prince <hi>Ruperts</hi> Privie Councell, when he is King of <hi>Ireland.</hi> O! they be men of Mettle, after thine owne heart Prince, men of Blood all, that care no more for killing Godly Ministers, or murdering his Ma<g ref="char:EOLhyphen"/>jesties best Subiects, then other Cavaliers doe for killing lice under a hedge.</p>
+            <p>These are they that have caus'd his Maiestie to goe to the Broakers, Morgage all; they have Morgag'd all too: Morgag'd their Estates, Mor<g ref="char:EOLhyphen"/>gag'd their Salvation, Morgag'd their Soules and bodies, till at last they have sold them out-right to doe mischiefe, and so must expect (without speedy repentance) to be Arrested, and committed close prisoners to the bottomlesse pit.</p>
+            <p>These can subvert Kingdomes, burne whole Townes, Steale, Ravish, Kill, and say, <hi>The King and Queene will have it so:</hi> These are the blacke Saints in our Calender, that have made a Hotch-potch of the true Religion and Poperie, that Reverence the shadow more then the substance, Cere<g ref="char:EOLhyphen"/>monies, more then the pure Gospel, or God himself: These make a God of Crucifixes, Altars, Tapers, Caps, Coaps, Susplices, Organ-pipes, Fid<g ref="char:EOLhyphen"/>lers, Saints dayes, Feasts, Wakes, May-poles, and Morris-dancers; a plea<g ref="char:EOLhyphen"/>sant religion sure, and very acceptable. These can Swear, Roar, Whore and be Drunke, and cry, <hi>For God and the King.</hi>
+            </p>
+            <p>God a mercy old Bishops, you have Preach't faire, and better'd your flock exceedingly; you have taught them well to <hi>Feare God and honour the King,</hi> that move rhe King to dishonour God: But doe you depend upon humane Authoritie, and be as safe as theeves in a mill: He whose Autho<g ref="char:EOLhyphen"/>ritie is on our side, is greater, to whose voice all the devils in hell shall stoop, much more the silly arme of sinfull flesh; 'Twas time for the Parlia<g ref="char:EOLhyphen"/>ment
+<pb n="8" facs="tcp:111957:5"/> to look about, and use all the meanes they could (as blessed be God▪ they have not been backward) to Charme these Vipers, which if they had not done in time, would have made all our hearts to ake, and when too late, to blame our owne selves: Gods cause must and will prevaile, ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>gre the malice of all that oppose it: or such a Judgement must over-take this land, that would have caus'd all our eares to tingle, and made us a By<g ref="char:EOLhyphen"/>word, and reproach to all Nations.</p>
+            <p>IF the Lord had not been on our sides, (may wee say as well as Israel) they had long ere this swallowed up both us, and with us our chiefest glorie. How did the Lord deliver us at <hi>Edge-hill</hi> under that Worthy of <hi>Isra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l,</hi> and Deliverer of the Children of God, Our Noble Generall the Earle of <hi>Essex:</hi> By Sir <hi>William Waller,</hi> a glorious Victory over the Lord <hi>Hoptons</hi> forces, who were utterly Routed? How hath the Arm of the Lord been seen in that Renowned Earle of <hi>Manchester,</hi> the thrice Noble Earl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Leven</hi> G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nerall of the Scotrish forces, and the valiant Lord <hi>Fairefax?</hi> How did that brave Lievtenant Generall <hi>Cromwell</hi> behave himself in Bat<g ref="char:EOLhyphen"/>tell against that Bloody Prince <hi>Rupert,</hi> when he was utterly Routed, and a glorious Victory obtained? How was <hi>Yorke</hi> brought to the obedience of King and Parliament? How many victories by Sea; and how many Prizes have beene taken by our Noble Lord <hi>Admirall,</hi> towards the vast expence in these wars? How hath <hi>Gloc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ster</hi> held out all this time: and that truely Noble Gentleman Colonell <hi>Massey</hi> heap'd Victorie upon Victorie. The Lord hath done all this, and much more for us: O let us she<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our selves thankfull unto him, and praise his holy Name, for all his loving kindnesse: The same Lord open the eyes of our Enemies, that they may see what con<g ref="char:EOLhyphen"/>fusion they have brought both upon themselves, and his Maiestie, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd made red with bloud two flourishing Kingdomes, and would doe the like to the third; but I heartily desire of Almightie God that they may re<g ref="char:EOLhyphen"/>pent, and become new men, if not; still we beseech thee confound all their devices, hell-hatch'd plots, and destructive purposes against us, and the Regiments of thy Sonne Iesus Christ: O Lord for thy Sonnes sake, for the love thou bearest to thy poore people, open the eyes of his Maiestie, that hee beholding their Godlesse practises and impieties to his people, may b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th del<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver Himselfe, his Children, and his three languishing King<g ref="char:EOLhyphen"/>domes from utter destruction, and deliver up Traitors to deserved Justice, that he may once more move in his proper O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>be, the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> in his full Glory and Lustre. That so God may tu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne away the fear<g ref="char:EOLhyphen"/>full Judgements that threa<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n us, for not punishing them, that mourne for the Desolation of <hi>Sion,</hi> and spoile and make havock of the Lords Inheritance. </p>
+            <closer>Amen.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
